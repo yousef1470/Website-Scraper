@@ -1,4 +1,4 @@
-# 🚀 Company Website Scraper
+# Company Website Scraper
 
 A powerful, automated web scraping tool designed to find and extract company websites from Excel files containing company names. The scraper uses advanced web search techniques and provides both GUI and command-line interfaces.
 
@@ -298,3 +298,4 @@ The scraper automatically excludes:
 This project is provided as-is for educational and business purposes. Please ensure compliance with all applicable laws and terms of service when using this software.
 
 ---
+
